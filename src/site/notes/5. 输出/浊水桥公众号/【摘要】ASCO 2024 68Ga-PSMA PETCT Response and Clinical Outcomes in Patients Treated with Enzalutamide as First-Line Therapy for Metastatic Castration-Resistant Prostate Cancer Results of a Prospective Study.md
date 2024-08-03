@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5//asco-2024-68-ga-psma-petct-response-and-clinical-outcomes-in-patients-treated-with-enzalutamide-as-first-line-therapy-for-metastatic-castration-resistant-prostate-cancer-results-of-a-prospective-study/"}
+{"dg-publish":true,"permalink":"/5//asco-2024-68-ga-psma-petct-response-and-clinical-outcomes-in-patients-treated-with-enzalutamide-as-first-line-therapy-for-metastatic-castration-resistant-prostate-cancer-results-of-a-prospective-study/","tags":["gardenEntry"]}
 ---
 
 # ASCO 2024：针对转移性去势抵抗性前列腺癌一线使用恩杂鲁胺治疗患者的68Ga-PSMA PET/CT反应与临床结局：一项前瞻性研究的结果
